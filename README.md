@@ -3,7 +3,7 @@
 <h1 align="center"> X-Men-Semana do Zero ao Primeiro Código </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em seu portfólio, aprendido por meio do curso oferecido do DevEmDobro 
+Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em seu portfólio, aprendido por meio do curso oferecido pelo 
 <a href="https://github.com/devemdobro">DevEmDobro<a/>  <br/>
 </p>
 
